@@ -1,4 +1,7 @@
-# AWS S3 bucket Terraform module
+# HashiCorp Enterprise Academy
+### AWS S3 bucket Terraform module
+
+*This repo was forked on 08/12/20 by Tom as part of HashiCorp Enterprise Academy training*
 
 Terraform module which creates S3 bucket on AWS with all (or almost all) features provided by Terraform AWS provider.
 
